@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Runtime generated test keys (Never commit private keys to GitHub!)
+*.priv.pem
+*private*.pem
+*.key
+crypto_test/
+
+# Local logs & telemetry exports
+*.log
+*.sqlite3
+logs/
+telemetry_data/
